@@ -26,7 +26,7 @@ The main objectives of this simulation were to:
 
 - **Exploratory Data Analysis (EDA):** Uncovered trends, outliers, and multicollinearity in the datasets.
 - **Feature Engineering:** Created new variables including tenure, price differences, and usage patterns.
-- **Modeling:** Trained a Random Forest classifier to predict customer churn.
+- **Modeling:** Trained multiple classifiers to predict customer churn.
 - **Evaluation:** Used metrics like accuracy, precision, recall, and cross-validation to assess model performance.
 - **Insights:** Delivered data-backed recommendations for retention strategies.
 
