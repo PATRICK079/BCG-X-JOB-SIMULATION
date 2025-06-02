@@ -42,7 +42,7 @@ The main objectives of this simulation were to:
 
 ## ✅ Results & Recommendations
 
-- Identified key drivers of customer churn such as high peak pricing and low tenure.
+- Identified key drivers of customer churn such as tenure.
 - Recommended pricing adjustments and targeted retention strategies for high-risk customers.
 - Proposed next steps for business experimentation and deeper customer segmentation.
 
