@@ -48,12 +48,6 @@ The main objectives of this simulation were to:
 
 ---
 
-## 📜 Certificate
-
-This project was completed as part of the [BCG X Data Science Job Simulation on Forage](https://www.theforage.com/simulations/bcg/data-science-ccdz).
-
----
-
 # 📬 Contact
 Patrick Edosoma
 
